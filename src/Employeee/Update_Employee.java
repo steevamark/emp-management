@@ -4,6 +4,8 @@ import java.awt.*;
 import java.sql.*;
 import javax.swing.*;
 import java.awt.event.*;
+import javax.swing.*;
+import java.awt.event.*;
 
 class Update_Employee extends Add_Employee implements ActionListener{
 
